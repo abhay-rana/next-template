@@ -15,5 +15,10 @@
         "import/named": "error",
         "no-undef": ["error"],
         "no-var": ["error"]
+    },
+    "settings": {
+        "react": {
+            "version": "detect"
+        }
     }
 }
