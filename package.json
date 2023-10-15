@@ -7,7 +7,7 @@
         "open-browser": "start http://localhost:3000",
         "build": "next build",
         "start": "next start",
-        "lint": "next eslint .",
+        "lint": "next lint .",
         "lint:fix": "eslint --fix --ext .js,.jsx,.ts,.tsx .",
         "format": "npx prettier --write \"**/*.{js,ts,tsx}\""
     },
