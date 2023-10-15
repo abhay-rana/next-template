@@ -1,3 +1,5 @@
+import React from 'react';
+
 export const metadata = {
     title: 'Services',
     description: 'this is services page',

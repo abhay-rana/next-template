@@ -11,7 +11,7 @@ export default function Home() {
     function handleNavigate() {
         router.push('/services/web');
     }
-    useState();
+
     return (
         <div>
             hi Hello this is abhay rana
