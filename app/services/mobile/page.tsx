@@ -1,9 +1,9 @@
-const MobileServices=()=>{
+const MobileServices = () => {
     return (
         <>
-        <div>This is mobile services</div>
+            <div>This is mobile services</div>
         </>
-    )
-}
+    );
+};
 
-export default MobileServices
+export default MobileServices;

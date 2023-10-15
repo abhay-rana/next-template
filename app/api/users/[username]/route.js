@@ -1,6 +1,6 @@
-export const GET=(req,route)=>{
+export const GET = (req, route) => {
     return Response.json({
-        message:"Hello this is abhay rana",
-        value:route.params.username
-    })
-}
+        message: 'Hello this is abhay rana',
+        value: route.params.username,
+    });
+};

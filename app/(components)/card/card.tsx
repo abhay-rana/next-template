@@ -1,11 +1,9 @@
-const Card=()=>{
+const Card = () => {
     return (
         <>
-        <div>
-            this is card component
-        </div>
+            <div>this is card component</div>
         </>
-    )
-}
+    );
+};
 
-export default Card
+export default Card;
